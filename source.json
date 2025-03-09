@@ -14,9 +14,5 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "RykerTM/RecalculateBlendshapeNormals"
-    ],
-    "packages":[
-        {
-        }
     ]
 }
