@@ -16,6 +16,7 @@
         {
             "name":"dev.rykertm.tools.recalculate",
             "releases":[
+                "https://github.com/RykerTM/RecalculateBlendshapeNormals/releases/download/v1.0.0/dev.rykertm.tools.recalculate.zip",
                 "https://github.com/RykerTM/RecalculateBlendshapeNormals/releases/download/v1.0.1/dev.rykertm.tools.recalculate.zip"
             ]
         }
